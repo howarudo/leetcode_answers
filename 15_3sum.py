@@ -1,7 +1,11 @@
 # Problem link: https://leetcode.com/problems/3sum/
 # Date: 2023/09/10
 # Big-O: n^2 (for loop is n, closing window (n) per loop)
-# Keywords: 2 pointers
+# Overview:
+#   - Okay to sort (log n) the nums bcs solution is going to be n^2 anyway
+#   - Closing window depending on sum <>= 0
+#   - Skip equivalent l and r pointers
+# <============ SOLUTION ============>
 
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
