@@ -4,7 +4,7 @@
 # Overview:
 #   - Kadane's algorithm
 #   - Traverses the whole array to find the max sum. Restarts summation when it becomes negative
-#   - Divide and conquer is better
+#   - Divide and conquer is  O(nlogn) which is worse than Kadane's alg
 # <============ SOLUTION ============>
 
 class Solution:
