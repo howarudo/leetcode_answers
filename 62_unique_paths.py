@@ -26,8 +26,13 @@ class Solution:
 # Big-O: O(m*n)
 # Overview:
 #   - Dynamic programming solution!
-#   -
+#   - Pascal's triangle
 # <============ SOLUTION ============>
 
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
+        topRow = [1] * m
+        for _ in range(1, n):
+            for j in range(1, m):
+                topRow[j] = topRow[j-1] + topRow[j]
+        return topRow[-1]
