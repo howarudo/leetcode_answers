@@ -1,5 +1,5 @@
 # Problem link: https://leetcode.com/problems/longest-consecutive-sequence
-# Date: 2023/09/21
+# Date: 2023/09/21, 2023/09/30
 # Big-O: O(n)
 # Overview:
 #   - Make a hashset of nums
