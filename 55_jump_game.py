@@ -1,5 +1,5 @@
 # Problem link: https://leetcode.com/problems/jump-game/
-# Date: 2023/09/14
+# Date: 2023/09/14, 2023/10/01
 # Big-O: O(n)
 # Overview:
 #   - Greed from behind, recursively change the "goal" of jumps
