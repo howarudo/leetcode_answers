@@ -1,5 +1,5 @@
 # Problem link: https://leetcode.com/problems/set-matrix-zeroes/
-# Date: 20223/09/15
+# Date: 20223/09/15, 2023/10/1
 # Big-O: Computation: O(m*n), Spacial: O(1)
 # Overview:
 #   - Use first row and first column as a placeholder for 0s if detected
