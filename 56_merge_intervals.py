@@ -1,5 +1,5 @@
 # Problem link: https://leetcode.com/problems/merge-intervals/
-# Date: 2023/09/14
+# Date: 2023/09/14, 2023/10/01
 # Big-O: O(nlog(n))
 # Overview:
 #   - Sort the intervals with the first element
