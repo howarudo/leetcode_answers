@@ -1,5 +1,5 @@
 # Problem link: https://leetcode.com/problems/insert-interval/
-# Date: 2023/09/19
+# Date: 2023/09/19, 2023/10/01
 # Big-O: O(n), n is the length of intervals
 # Overview:
 #   - For each element in intervals, there are 3 cases to be considered
