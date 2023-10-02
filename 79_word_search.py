@@ -1,5 +1,5 @@
 # Problem link: https://leetcode.com/problems/word-search/description
-# Date: 2023/09/17
+# Date: 2023/09/17, 2023/10/02
 # Big-O: O(m * n * 4^(s)), m and n are dimensions of board, s is the lenght of word
 # Overview:
 #   - depth first search. loop through all the elements in the board
