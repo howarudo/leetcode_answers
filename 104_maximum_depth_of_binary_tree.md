@@ -1,6 +1,8 @@
 # 0104 - Maximum Depth Of Binary Tree
-## Dates Recieved
+
+## Dates Reviewed
 2023/10/15, 2023/09/26
+
 ## Problem Link
 
 https://leetcode.com/problems/maximum-depth-of-binary-tree/
