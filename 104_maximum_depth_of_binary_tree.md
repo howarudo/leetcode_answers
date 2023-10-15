@@ -1,11 +1,23 @@
-# Problem link: https://leetcode.com/problems/maximum-depth-of-binary-tree/
-# Date: 2023/09/26
-# Big-O: O(n)
-# Overview:
-#   - bfs. Use deque as a waiting list
-# <============ SOLUTION ============>
+# 0104 - Maximum Depth Of Binary Tree
+## Dates Recieved
+2023/10/15, 2023/09/26
+## Problem Link
 
-# 2023/09/26 REV
+https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+## Approach : Breadth First Search
+
+Breadth first search. Use deque as a 'waiting list' for nodes. Once we clear one layer of nodes, increment counter.
+
+**Time Complexity**: $$O(n)$$
+where n is the number of nodes.
+
+**Space Complexity**: $$O(n)$$
+where n is the number of nodes.
+
+<TabItem value="python" label="Python">
+
+```python
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -29,3 +41,5 @@ class Solution:
                     q.append(node.left)
                     q.append(node.right)
         return count
+```
+</TabItem>
