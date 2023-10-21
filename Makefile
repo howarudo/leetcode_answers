@@ -1,3 +1,3 @@
 add_new_problem:
-	cp template.md ${NUMBER}_${NAME}.md
-	code ${NUMBER}_${NAME}.md
+	cp template.md 0001_1000/${NUMBER}_${NAME}.md
+	code 0001_1000/${NUMBER}_${NAME}.md
