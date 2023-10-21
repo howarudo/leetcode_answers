@@ -11,7 +11,7 @@ https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 
 Use a binary search-like method with more cases. A rotated sorted array could be seen as two sorted arrays -> We just have to adjust the original binary search to fit more cases.
 
-**Time Complexity**: $$O(log * n)$$
+**Time Complexity**: $$O(log n)$$
 where n is the number of elements in the sorted array
 
 **Space Complexity**: $$O(1)$$
