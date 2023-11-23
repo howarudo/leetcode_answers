@@ -10,6 +10,6 @@ make add_new_problem NUMBER=10 NAME=hello_world
 ```
 ## Contact
 Feel free to contact me through any of the following mediums!😁
-* [Personal Website](https://howarudo.github.io)
+<!-- * [Personal Website](https://howarudo.github.io) -->
 * [Twitter](https://twitter.com/howarudo)
 * Email: **howarudo(at)gmail.com**
