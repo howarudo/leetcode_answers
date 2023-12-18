@@ -1,7 +1,7 @@
 # 0036 - Valid Sudoku
 
 ## Dates Reviewed
-2023/11/24
+2023/11/24, 2023/12/18
 
 ## Problem Link
 
