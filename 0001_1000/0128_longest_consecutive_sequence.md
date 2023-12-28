@@ -1,7 +1,7 @@
 # 0128 - Longest Consecutive Sequence
 
 ## Dates Reviewed
-2023/11/24
+2023/11/24, 2023/12/28
 
 ## Problem Link
 
