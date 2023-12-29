@@ -1,7 +1,7 @@
 # 0242 - Valid Anagram
 
 ## Dates Reviewed
-2023/10/21, 2023/12/28
+2023/10/21, 2023/12/28, 2023/12/29
 
 ## Problem Link
 
